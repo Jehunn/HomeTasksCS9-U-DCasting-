@@ -1,0 +1,14 @@
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\bin\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).exe
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\bin\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).deps.json
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\bin\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).runtimeconfig.json
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\bin\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).runtimeconfig.dev.json
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\bin\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).dll
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\bin\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).pdb
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).csproj.AssemblyReference.cache
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).AssemblyInfoInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).AssemblyInfo.cs
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).csproj.CoreCompileInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).dll
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).pdb
+C:\Users\chabo\source\repos\HomeTasksCS9(Upcast,Downcast)\HomeTasksCS9(Upcast,Downcast)\obj\Debug\netcoreapp3.1\HomeTasksCS9(Upcasting,Downcasting).genruntimeconfig.cache

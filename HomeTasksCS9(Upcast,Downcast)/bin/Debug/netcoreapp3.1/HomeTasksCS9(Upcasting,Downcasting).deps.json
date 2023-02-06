@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeTasksCS9(Upcasting,Downcasting)/1.0.0": {
+        "runtime": {
+          "HomeTasksCS9(Upcasting,Downcasting).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeTasksCS9(Upcasting,Downcasting)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
